@@ -10,6 +10,8 @@ O sistema recomenda livros a partir da semelhança entre suas sinopses, ajudando
 
 **[Acessar a aplicação](https://sistema-recomendacao-livros.streamlit.app/)**
 
+**[Acessar a documentação do projeto](https://canva.link/361qzlm4yrz2yfo)**
+
 
 ## Objetivo
 

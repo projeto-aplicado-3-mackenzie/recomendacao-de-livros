@@ -5,6 +5,7 @@ Projeto desenvolvido na disciplina Projeto Aplicado III, do curso de Banco de Da
 O sistema recomenda livros a partir da semelhança entre suas sinopses, ajudando leitores a descobrir títulos relacionados a uma obra de seu interesse.
 
 **[Acessar a aplicação](https://sistema-recomendacao-livros.streamlit.app/)**
+
 **[Consultar o notebook](https://github.com/projeto-aplicado-3-mackenzie/recomendacao-de-livros/blob/main/projeto-aplicado-III.ipynb)**
 ## Objetivo
 

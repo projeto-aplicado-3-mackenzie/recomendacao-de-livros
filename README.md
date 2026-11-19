@@ -92,7 +92,8 @@ Em um teste pontual com o livro *A Guerra Pela Uber*, o cálculo de similaridade
 |---|---|
 | Aplicação | Link disponível no início deste README |
 | Documentação final | - |
-| Notebook, código-fonte e diagramas | - |
+| Notebook com código fonte | **[Consultar o notebook]([https://www.kaggle.com/datasets/victorstein/livros-skoob](https://github.com/projeto-aplicado-3-mackenzie/recomendacao-de-livros/blob/main/projeto-aplicado-III.ipynb))**
+ |
 | Vídeo de apresentação | - |
 | Vídeo da aplicação na comunidade | - |
 

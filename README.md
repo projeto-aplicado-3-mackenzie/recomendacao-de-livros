@@ -4,9 +4,13 @@ Projeto desenvolvido na disciplina Projeto Aplicado III, do curso de Banco de Da
 
 O sistema recomenda livros a partir da semelhança entre suas sinopses, ajudando leitores a descobrir títulos relacionados a uma obra de seu interesse.
 
-**[Acessar a aplicação](https://sistema-recomendacao-livros.streamlit.app/)**
+**[Consultar o dataset](https://www.kaggle.com/datasets/victorstein/livros-skoob)**
 
 **[Consultar o notebook](https://github.com/projeto-aplicado-3-mackenzie/recomendacao-de-livros/blob/main/projeto-aplicado-III.ipynb)**
+
+**[Acessar a aplicação](https://sistema-recomendacao-livros.streamlit.app/)**
+
+
 ## Objetivo
 
 Desenvolver um sistema de recomendação baseado em conteúdo, utilizando processamento de texto para comparar sinopses e sugerir novas leituras.
@@ -26,7 +30,6 @@ As recomendações incluem título, autor, gênero, sinopse e pontuação de sim
 
 Foi utilizada a base **Livros Skoob**, disponibilizada por Victor Stein no Kaggle.
 
-**[Consultar o dataset](https://www.kaggle.com/datasets/victorstein/livros-skoob)**
 
 | Característica | Quantidade |
 |---|---:|

@@ -91,10 +91,10 @@ Em um teste pontual com o livro *A Guerra Pela Uber*, o cálculo de similaridade
 | Material | Situação |
 |---|---|
 | Aplicação | Link disponível no início deste README |
-| Documentação final | Em atualização para entrega no Canvas |
-| Notebook, código-fonte e diagramas | A disponibilizar neste repositório |
-| Vídeo de apresentação — cinco minutos | Link do YouTube a inserir |
-| Vídeo da aplicação na comunidade | Link a inserir |
+| Documentação final | - |
+| Notebook, código-fonte e diagramas | - |
+| Vídeo de apresentação | - |
+| Vídeo da aplicação na comunidade | - |
 
 ## Integrantes
 

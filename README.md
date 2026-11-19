@@ -5,7 +5,7 @@ Projeto desenvolvido na disciplina Projeto Aplicado III, do curso de Banco de Da
 O sistema recomenda livros a partir da semelhança entre suas sinopses, ajudando leitores a descobrir títulos relacionados a uma obra de seu interesse.
 
 **[Acessar a aplicação](https://sistema-recomendacao-livros.streamlit.app/)**
-
+**[Consultar o notebook](https://github.com/projeto-aplicado-3-mackenzie/recomendacao-de-livros/blob/main/projeto-aplicado-III.ipynb)**
 ## Objetivo
 
 Desenvolver um sistema de recomendação baseado em conteúdo, utilizando processamento de texto para comparar sinopses e sugerir novas leituras.
@@ -78,24 +78,7 @@ Em um teste pontual com o livro *A Guerra Pela Uber*, o cálculo de similaridade
 - O TF-IDF compara termos textuais e pode não identificar relações expressas com palavras diferentes.
 - A avaliação por gênero indica correspondência temática, mas não mede diretamente a satisfação dos leitores.
 - Os resultados apresentados correspondem à amostra avaliada.
-
-## Trabalhos futuros
-
-- Aprimorar o tratamento dos textos.
-- Comparar outras formas de representação das sinopses.
-- Avaliar as recomendações com leitores do público proposto.
-- Investigar diversidade e novidade nas sugestões.
-
-## Materiais da entrega
-
-| Material | Situação |
-|---|---|
-| Aplicação | Link disponível no início deste README |
-| Documentação final | - |
-| Notebook com código fonte | **[Consultar o notebook]([https://www.kaggle.com/datasets/victorstein/livros-skoob](https://github.com/projeto-aplicado-3-mackenzie/recomendacao-de-livros/blob/main/projeto-aplicado-III.ipynb))** |
-| Vídeo de apresentação | - |
-| Vídeo da aplicação na comunidade | - |
-
+ 
 ## Integrantes
 
 - David Wildson Gonçalves Santos

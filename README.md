@@ -12,6 +12,8 @@ O sistema recomenda livros a partir da semelhança entre suas sinopses, ajudando
 
 **[Acessar a documentação do projeto](https://canva.link/361qzlm4yrz2yfo)**
 
+**[Vídeo da apresentação do projeto](https://www.youtube.com/watch?v=LF_GHMeSUU0)**
+
 
 ## Objetivo
 
